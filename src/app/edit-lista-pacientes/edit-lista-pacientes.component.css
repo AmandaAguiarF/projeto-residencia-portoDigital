@@ -1,0 +1,43 @@
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+.navbar{
+  background: #004f4f;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  background-color: #004f4f;
+  margin: 25px;
+  align-content: baseline;
+  border-radius: 10px;
+}
+
+.example-form-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.example-full-width {
+  width: 96%;
+  margin: 10px;
+  align-content: center;
+}
+
+.button{
+  align-items: center;
+  justify-content: center;
+  flex-wrap: nowrap;
+  margin-left: 180px;
+}
+
+form {
+  display: flexbox !important;
+  margin-top: 0em;
+  unicode-bidi: isolate;
+  align-content: center;
+}
