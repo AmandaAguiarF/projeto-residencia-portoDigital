@@ -20,7 +20,7 @@ A aplicação visa permite a realização de cadastro, listar, excluir e atualiz
 - Angular Material
 ___________________________________________________________________________________________________________________________________
 
-# FixaHospitalar
+# FichaHospitalar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
 
