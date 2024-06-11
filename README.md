@@ -1,3 +1,25 @@
+# Projeto de Cadastro de Pacientes
+### Descrição do Projeto
+
+Este projeto foi desenvolvido para a Residência Tecnologica do Porto Digital. Foi desenvolvida uma aplicação em Angular. 
+A aplicação visa permite a realização de cadastro, listar, excluir e atualizar os dados dos pacientes. 
+
+### Funcionalidades
+
+- Cadastro de Pacientes;
+- Atualização de Pacientes;
+- Exclusão de Pacientes;
+- Listagem de Paciente.
+
+### Tecnologias Utilizadas
+
+- HTML
+- CSS
+- TypeScript
+- Angular
+- Angular Material
+___________________________________________________________________________________________________________________________________
+
 # FixaHospitalar
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.2.
